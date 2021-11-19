@@ -16,7 +16,7 @@ function prime(n){
 }
 console.log(prime(43))
 ```
-2.Calculate Factorial of a number using for loop(iterative)
+ ### 2.Calculate Factorial of a number using for loop(iterative)
 ```
 function asdf(x) {
     let count = 1;
@@ -28,7 +28,7 @@ function asdf(x) {
 const factorial = asdf(10);
 console.log(factorial); 
 ```
-3.Calculate Factorial of a number using a while loop(iterative)
+ ### 3.Calculate Factorial of a number using a while loop(iterative)
 ```
 function asdf(x) {
     let count = 1;
@@ -42,7 +42,7 @@ function asdf(x) {
 const factorial = asdf(10);
 console.log(factorial); 
 ```
-4.Calculate Factorial in a Recursive function
+ ### 4.Calculate Factorial in a Recursive function
 ```
 function asdf(x) {
   if(x==0)
@@ -56,7 +56,7 @@ function asdf(x) {
 const factorial = asdf(10);
 console.log(factorial); 
 ```
-5.Create a Fibonacci Series using a for loop
+ ### 5.Create a Fibonacci Series using a for loop
 ```function fibo(n) {
     var fibo = [0, 1];
     // fibo[n]=fibo[n-1]+fibo[n-2]
@@ -68,7 +68,7 @@ console.log(factorial);
 }
 console.log(fibo(10))
 ```
-6.Fibonacci Element in a Recursive Way
+ ### 6.Fibonacci Element in a Recursive Way
 ```
 function fibo(n) {
     if(n === 0) return 0;
@@ -79,7 +79,7 @@ function fibo(n) {
 }
 console.log(fibo(10))
 ```
-7.Create Fibonacci series in a recursive way
+ ### 7.Create Fibonacci series in a recursive way
 ```function fibo(n){
     if(n === 0) return [0];
     if(n === 1) return [0,1];
@@ -93,4 +93,4 @@ console.log(fibo(10))
 }
 console.log(fibo(10))
 ```
-8.
+ ### 8.
